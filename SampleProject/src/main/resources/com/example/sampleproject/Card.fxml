@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" onMouseClicked="#replaceCardToTable" prefHeight="134.0" prefWidth="107.0" style="-fx-background-color: #808080;" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.sampleproject.CardController">
+   <children>
+      <Label fx:id="mast" layoutX="39.0" layoutY="34.0" />
+      <Label fx:id="nominal" layoutX="39.0" layoutY="86.0" />
+   </children>
+</AnchorPane>
