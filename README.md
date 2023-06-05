@@ -18,7 +18,7 @@
 ***
 ***
 ***
-# Участие в реализации принимали ученики 22БИ-2:
+### Участие в реализации принимали ученики 22БИ-2:
 > Филиппов Матвей ([MatvteyFilippov](https://github.com/MatvteFilippov "GitHub"))
 > 
 > Рябков Александр ([realyoungwoody](https://github.com/realyoungwoody "GitHub"))
