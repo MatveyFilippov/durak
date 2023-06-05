@@ -20,7 +20,11 @@
 ***
 # Участие в реализации принимали ученики 22БИ-2:
 > Филиппов Матвей ([MatvteyFilippov](https://github.com/MatvteFilippov "GitHub"))
+> 
 > Рябков Александр ([realyoungwoody](https://github.com/realyoungwoody "GitHub"))
+> 
 > Калашникова Валерия ([ValeriaKalashnikova](https://github.com/ValeriaKalashnikova "GitHub"))
+> 
 > Носова Алина ([alinjia](https://github.com/alinjia "GitHub"))
+> 
 > Чубарова Дарья ([chubarova2003](https://github.com/chubarova2003 "GitHub"))
